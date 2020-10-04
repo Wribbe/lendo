@@ -1,6 +1,6 @@
 # Things that are lent out.
   * Xbox-controller: Burk.
-  * Comic-book - Adventure zone: Mat.
+  * Adventure zone - Comic-book: Mat.
   * Dread-book: Mat.
 
 # Things lended.
